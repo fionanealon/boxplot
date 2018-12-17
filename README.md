@@ -4,4 +4,4 @@ This repository contains primarily, a Jupyter Notebook with an investigation int
 
 To run the notebook, you must have Jupyter installed on your machine. You can install this using the Anaconda Python distribution.
 
-The notebook itself is called boxplot.ipynb.
+The notebook itself is called Boxplot.ipynb.
