@@ -1,4 +1,4 @@
-Box plot - an investigation into the box plot function using a Jupyter Notebook
+## Box plot - an investigation into the box plot function using a Jupyter Notebook
 
 This repository contains primarily, a Jupyter Notebook with an investigation into dataset reflecting a real world phenomenom.
 
